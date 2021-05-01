@@ -1,2 +1,5 @@
 # Counter-Project
-Bejinner JavaScript project
+Beginner JavaScript project
+
+### Project preview
+![](./screenshot.png)
